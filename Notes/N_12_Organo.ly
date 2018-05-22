@@ -117,7 +117,7 @@ TeDeumOrgano = {
 		gis gis gis gis gis gis gis gis
 		a a a a a a a g
 		fis fis fis fis fis fis fis fis
-		g g a a h h cis cis %110
+		g g a a h h cis! cis %110
 		d d, d d d d d d
 		g g g g e e e h
 		c c c c cis cis cis cis
@@ -141,7 +141,7 @@ TeDeumOrgano = {
 		fis fis fis fis fis fis fis fis
 		h h ais ais h h eis, eis
 		fis fis fis fis fis fis fis fis
-		h h a! a g g d d
+		h h a! a g! g d d
 		e e d e fis fis fis, fis %135
 		h4 r h r
 		h8 h' h h a a a a
