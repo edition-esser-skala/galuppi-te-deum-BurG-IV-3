@@ -20,7 +20,7 @@ TeDeumTenoreNotes = {
 		\clef "treble_8"
 		\key d \major \time 4/4 \autoBeamOff \tempoTeDeum
 		R1*19 %19
-		r2 r4 \mvTr d\fE^\tuttiE %20
+		r2 r4 \mvDll d\fE^\tuttiE %20
 		d1
 		d2 d
 		d1
