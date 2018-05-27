@@ -296,14 +296,14 @@ TeDeumBassFigures = \figuremode {
 	<_+> %125
 	r
 	r
-	<6\\>2 <6>4 <_+>
+	<6\\>2 <6 5>4 <7 _+>
 	r1
 	<2> %130
 	<7 _+>
 	r4 <6 5> r <7 5 _+>
 	<_+>1
 	r4 <\t> r <6>
-	<6 5>4 <6>8 <6 5> <4>4 <_+> %135
+	<6 5>4. \bassFigureExtendersOn q8 \bassFigureExtendersOff <4>4 <_+> %135
 	r1
 	<_+>2 <\t>
 	<6>1

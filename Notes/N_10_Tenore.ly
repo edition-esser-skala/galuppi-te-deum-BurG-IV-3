@@ -123,7 +123,7 @@ TeDeumTenoreNotes = {
 		d4 e d d
 		cis4. cis8 cis4 cis
 		d d d d
-		cis d8^\critnote cis cis4. cis8 %135
+		cis cis8 cis cis4. cis8 %135
 		h2 r
 		dis4 dis dis dis
 		e2 e4 e
