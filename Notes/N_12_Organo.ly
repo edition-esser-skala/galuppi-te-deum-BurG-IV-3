@@ -177,15 +177,15 @@ TeDeumBassFigures = \figuremode {
 	r
 	r
 	r
-	r
-	r %10
-	r
-	r
-	r
-	r
-	r %15
+	<7>2.. \bassFigureExtendersOn q8
+	<6 4>2.. q8 %10
+	<7>2.. q8 \bassFigureExtendersOff
+	r1
 	r
 	r
+	<7> %15
+	r4 <6> <7>2
+	r1
 	r
 	r
 	r %20
@@ -197,9 +197,9 @@ TeDeumBassFigures = \figuremode {
 	r
 	r
 	r
-	r
+	<7>
 	r %30
-	r
+	<7>
 	r
 	r
 	r
@@ -215,8 +215,8 @@ TeDeumBassFigures = \figuremode {
 	<_+>
 	<6 5> %45
 	<_+>
-	r
-	r2 <6>
+	r2. <7>4
+	r2 <6>4 <7>
 	r1
 	r2 <2> %50
 	<6>1
@@ -234,38 +234,38 @@ TeDeumBassFigures = \figuremode {
 	<7> <6\\> <_+>2
 	r4 <\t> <6 5> <7 _+>
 	r <6>8 <7> <4>4 <_+> %65
-	r2. <6>4
+	r2. <6 5!>4
 	r1
 	r4 <6>2.
 	<6 5>1
 	<7 _+> %70
 	q
 	<6\\>4 <_+>2.
-	r4 <\t> <6 5> <7 _+>
+	<_!>4 <\t> <6 5> <7 _+>
 	r <6> <4> <_+>
-	r1 %75
+	r2. <7!>4 %75
+	r1
 	r
-	r
-	r
+	<7 _+>
 	r
 	r %80
 	r
 	r
-	r
-	r
+	r2. <7!>4
+	r1
 	<6 5>2.. \bassFigureExtendersOn q8 \bassFigureExtendersOff %85
 	r1
-	r
-	r
+	r2. <7>4
+	r1
 	<6 5>2.. \bassFigureExtendersOn q8 \bassFigureExtendersOff
 	r1 %90
-	r
-	r
+	r2. <7>4
+	r1
 	<6 5>
 	r
 	r4 <2> <6>2 %95
+	r2. <7!>4
 	r1
-	r
 	<6 5>
 	r
 	r %100
@@ -279,16 +279,16 @@ TeDeumBassFigures = \figuremode {
 	r2.. <\t>8
 	<6>1
 	r4 <\t> <6> <7> %110
-	r1
+	r2. <7!>4
 	r2.. <\t>8
 	<6 5>2 <\t \t>
 	<4> <3>
 	r1 %115
+	<7!>
 	r
+	<7!>
 	r
-	r
-	r
-	r %120
+	<6 5!> %120
 	r
 	r
 	r
@@ -299,7 +299,7 @@ TeDeumBassFigures = \figuremode {
 	<6\\>2 <6>4 <_+>
 	r1
 	<2> %130
-	<_+>
+	<7 _+>
 	r4 <6 5> r <7 5 _+>
 	<_+>1
 	r4 <\t> r <6>
@@ -308,7 +308,7 @@ TeDeumBassFigures = \figuremode {
 	<_+>2 <\t>
 	<6>1
 	<_+>
-	q2 <6>4 <_+> %140
+	q2 <6>4 <7 _+> %140
 	r2. <\t>4
 	<6>1
 	<6 5>
