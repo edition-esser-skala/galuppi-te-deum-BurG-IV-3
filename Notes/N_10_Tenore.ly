@@ -282,10 +282,121 @@ TeErgoTenoreNotes = {
 		\clef "treble_8"
 		\key g \minor \time 3/4 \autoBeamOff \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		R2.*21 %178
+		\mvTr d4\pE^\soloE g d
+		c4. d8 es4 %180
+		es8 d d([ c)] c d
+		b8. a16 g4 r
+		d'4 c32([ h16.)] as32([ g16.)] g8 f'
+		es8. d16 es2
+		c4 b32([ a16.)] g32([ f16.)] f8 es' %185
+		d8. c16 d4 r
+		c4( d8[ c16 b] f'8) es16([ d)]
+		d4 c r
+		b d f
+		g8. h,16 c4 r %190
+		c8 e e([ g)] g^\critnote b,
+		a8. g16 f4 r
+		f es' d
+		c2 b4
+		g8([ a] \appoggiatura c16 b8) a16([ g)] f4 %195
+		g'16([ es)] d([ c)] b4( c)
+		b2 r4
+		R2.*36 %233
+		es2 f8([ d)]
+		es2 r4 %235
+		d2 es8([ c)]
+		d2 r4
+		d4. es8 f4
+		es4 g2
+		g8([ f] f[ es)] es([ d)] %240
+		\appoggiatura f4 es2 r4
+		d d es8([ d)]
+		c2 c4
+		b8 c16([ d)] es4 d
+		c b r %245
+		b2 c8([ a)]
+		b2 r4
+		a2 b8([ g)]
+		a2 r4
+		a4. b8 c4 %250
+		b b r
+		d( c) b
+		\appoggiatura b a2 r4
+		R2.
+		g'4 g f %255
+		es2 d4
+		c2 h4
+		c( es) d
+		c h r
+		c c c %260
+		b!2 b4
+		a2.
+		g2 r4
+		g' g g
+		g2. %265
+		g
+		g4( fis2)
+		g2 r4
+		R2.*8 %276
+		R2.\fermataMarkup \bar "||" %277 finis
 	}
 }
 
 TeErgoTenoreLyrics = \lyricmode {
+	Te er -- go %179
+	quae -- su -- mus, %180
+	tu -- is fa -- mu -- lis
+	sub -- ve -- ni,
+	quos pre -- ti -- o -- so
+	san -- gui -- ne,
+	quos pre -- ti -- o -- so %185
+	san -- gui -- ne
+	re -- de --
+	mi -- sti.
+	Te er -- go
+	quae -- su -- mus, %190
+	tu -- is fa -- mu -- lis
+	sub -- ve -- ni,
+	quos pre -- ti --
+	o -- so
+	san -- gui -- ne %195
+	re -- de -- mi --
+	sti.
 	
+	Sal -- vum %234
+	fac, %235
+	sal -- vum
+	fac
+	po -- pu -- lum
+	tu -- um,
+	Do -- mi -- %240
+	ne,
+	et be -- ne --
+	dic hae --
+	re -- di -- ta -- ti
+	tu -- ae. %245
+	Sal -- vum
+	fac,
+	sal -- vum
+	fac
+	po -- pu -- lum %250
+	tu -- um,
+	Do -- mi --
+	ne,
+	
+	et be -- ne -- %255
+	dic hae --
+	re -- di --
+	ta -- ti
+	tu -- ae,
+	hae -- re -- di -- %260
+	ta -- ti
+	tu --
+	ae,
+	hae -- re -- di --
+	ta -- %265
+	ti
+	tu --
+	ae. %268 finis
 }
