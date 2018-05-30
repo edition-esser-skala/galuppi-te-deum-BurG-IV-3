@@ -19,16 +19,10 @@
 		\score {
 			<<
 				\new StaffGroup <<
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "Oboe I"
-							\TeDeumOboeI
-						}
-						\new Staff {
-							\set Staff.instrumentName = "Oboe II"
-							\TeDeumOboeII
-						}
-					>>
+					\new Staff {
+						\set Staff.instrumentName = "Oboe I, II"
+						\partcombine \TeDeumOboeI \TeDeumOboeII
+					}
 				>>
 				\new StaffGroup <<
 					\new Staff <<
