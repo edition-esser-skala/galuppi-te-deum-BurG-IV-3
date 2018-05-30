@@ -173,6 +173,125 @@ TeErgoViolinoII = {
 		\clef treble
 		\key g \minor \time 3/4 \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		b'2\fE b4
+		a4. b8 c4
+		a2 a4 %160
+		g8 g'32 fis g a g8 d b g
+		d4 d2
+		c8. es'16 es2
+		f,8. c16 c2
+		b8. d'16 d2 %165
+		es8. es,16 es2
+		d8. d'16 d2
+		es8. c16 b4 a
+		b b, r
+		a8\pE a a a a a %170
+		b b b b b b
+		a a a a a a
+		b b b b b b
+		c8.\fE c'16 c4. a8
+		g8. b16 g4 fis %175
+		g8. c16 c4. a8
+		g8. b16 g4 fis
+		g g, r
+		b'2\pE b4
+		a4. b8 c4 %180
+		c a a
+		g8. fis16 g4 g,
+		h'2.
+		c
+		c %185
+		d
+		c4 b d
+		b a r
+		f8 f f f d' d
+		c c c c c c %190
+		b4 b b
+		a f'8 c a c
+		f,4 es' d
+		c2 b4
+		es,8 f g f16 es d8 d' %195
+		es c b4 a
+		b b, r
+		f'8 f f f f f
+		f f f4 r
+		f8 f f f f f %200
+		f f f f f f
+		es8.\fE es'16 es4. c8
+		b8. d16 b4 a
+		b8. es,16 es4. c8
+		b8. d16 b4 a %205
+		b2 r4
+		r8 \mvDll b-\parenthesize-.\pE \slurDashed b( c) c( d)
+		d( es) es( f) f( es) \slurSolid
+		es d d4 d
+		es g4. f16 es %210
+		es4 d d'
+		c4. b8 c4
+		\tuplet 3/2 4 { c8[ b d] } d4 b
+		b a c
+		d8( es) es( d) d4 %215
+		d,8( es) es( d) d4
+		es f g
+		as g b
+		c c c
+		b d d %220
+		d d d
+		es es es
+		es es es
+		f f f
+		f f f %225
+		es d b,
+		d'8.([ es32 f)] es4. d16 c
+		d8.([ es32 f)] es4. d16 c
+		d8 es16 f es4 g,16 as g f
+		es4 es d %230
+		es g,8-. g( as g)
+		g4 g8-. g( as g)
+		g2 r4
+		es' es' r
+		r8 g es b g es %235
+		d4 d' r
+		r8 b, d f b d
+		d4. es8 f4
+		es g2
+		g8 f f es es d %240
+		\appoggiatura f4 es2 r4
+		d d es8 d
+		c2 c4
+		b8 c16 d es4 d
+		c b r %245
+		b, b' r
+		r8 b g b d g
+		fis4 fis, r
+		r8 fis a d fis fis
+		fis4. g8 a4 %250
+		g d,8 g b d
+		d4 c b
+		\appoggiatura b a2 r4
+		R2.
+		g'4 g f %255
+		es2 d4
+		c2 h4
+		c es d
+		c h h
+		c c c %260
+		b2 b4
+		a2.
+		g2 g'16 fis g a
+		g4 g g
+		g2. %265
+		g
+		g4 fis2
+		g2 r4
+		a,,8 a a a a a
+		b b b b b b %270
+		a a a a a a
+		b b b b b h
+		c8.\fE c'16 c4. a8
+		g8. b16 g4 fis
+		g8. c16 c4. a8 %275
+		g8. b16 g4 fis
+		g g, r\fermata \bar "||" %277 finis
 	}
 }
