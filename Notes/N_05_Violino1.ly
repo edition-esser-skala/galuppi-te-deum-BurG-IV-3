@@ -57,7 +57,7 @@ TeDeumViolinoI = {
 		cis,16 a' a a a a a a a8 e cis a
 		<d, a' fis'> q q q fis'16 e dis cis h a gis a
 		gis8 <e h' e> q q e'16 e, e e e4
-		e16 d' d d d d d d cis cis cis cis cis cis cis cis
+		e16 d'! d d d d d d cis cis cis cis cis cis cis cis
 		h gis' gis gis gis gis gis gis a8 e cis a %40
 		e16 d' d d d d d d cis cis cis cis cis cis cis cis
 		h4 cis16 a cis e a e cis e a,4
@@ -65,7 +65,7 @@ TeDeumViolinoI = {
 		h gis' gis gis gis gis gis gis a8 e cis a
 		e16 d' d d d d d d cis cis cis cis cis cis cis cis %45
 		h4 cis16 a cis e a e cis e a, h cis d
-		e e e e e e e e e e e e g g g g
+		e e e e e e e e e e e e g! g g g
 		fis fis fis fis fis fis fis fis e e e e g g g g
 		<fis a, d,>8 q q q <fis a,>4 d,16 e fis g
 		a e' e e e e e e e e e e e e e e %50
@@ -157,7 +157,7 @@ TeDeumViolinoI = {
 		} \\ {
 			<d,, a'>4 q q q
 			a' a a a
-			s2 e4 e
+			e4-\critnote e e e
 		} >>
 		<e cis'>8 <e cis' a'> q q q4 a16 h cis d
 		e e e e e e e e e e e e e e e e %130
