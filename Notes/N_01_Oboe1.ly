@@ -159,7 +159,7 @@ TeDeumOboeI = {
 		fis1
 		fis4 e a,16 h cis d e fis g a %150
 		fis1
-		e4 fis8 e fis4 e
+		e4 a8^\critnote g fis4 e
 		d fis8 fis fis a, d fis
 		fis1
 		e4 a8 g fis4 e %155
