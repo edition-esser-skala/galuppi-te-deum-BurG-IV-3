@@ -276,3 +276,16 @@ TeDeumTenoreLyrics = \lyricmode {
 	es -- se ven -- tu -- %155
 	rus.] %156 finis
 }
+
+TeErgoTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key g \minor \time 3/4 \autoBeamOff \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		
+	}
+}
+
+TeErgoTenoreLyrics = \lyricmode {
+	
+}

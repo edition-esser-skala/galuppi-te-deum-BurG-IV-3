@@ -167,3 +167,12 @@ TeDeumOboeI = {
 		fis fis16 fis fis8 fis fis4 r\fermata \bar "||" %157 finis
 	}
 }
+
+TeErgoOboeI = {
+	\relative c' {
+		\clef treble
+		\key g \minor \time 3/4 \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		
+	}
+}

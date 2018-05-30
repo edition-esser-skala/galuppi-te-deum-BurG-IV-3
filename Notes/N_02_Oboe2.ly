@@ -167,3 +167,12 @@ TeDeumOboeII = {
 		d d16 d d8 d d4 r\fermata \bar "||" %157 finis
 	}
 }
+
+TeErgoOboeII = {
+	\relative c' {
+		\clef treble
+		\key g \minor \time 3/4 \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		
+	}
+}

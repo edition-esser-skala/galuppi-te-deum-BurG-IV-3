@@ -276,3 +276,16 @@ TeDeumAltoLyrics = \lyricmode {
 	es -- se ven -- tu -- %155
 	rus.] %156 finis
 }
+
+TeErgoAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key g \minor \time 3/4 \autoBeamOff \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		
+	}
+}
+
+TeErgoAltoLyrics = \lyricmode {
+	
+}

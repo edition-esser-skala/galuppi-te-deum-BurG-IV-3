@@ -190,3 +190,12 @@ TeDeumViolinoI = {
 		q q16 q q8 q q4 r\fermata \bar "||" %157 finis
 	}
 }
+
+TeErgoViolinoI = {
+	\relative c' {
+		\clef treble
+		\key g \minor \time 3/4 \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		
+	}
+}

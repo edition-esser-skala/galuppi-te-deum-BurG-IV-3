@@ -163,6 +163,7 @@ tempoMarkup =
 %
 
 tempoTeDeum = \tempoMarkup "[Tempo deest]"
+tempoTeErgo = \tempoMarkup "[Tempo deest]"
 
 
 % modify the Scheme function 'format-bass-figure'

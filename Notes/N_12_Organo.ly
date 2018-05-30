@@ -327,3 +327,16 @@ TeDeumBassFigures = \figuremode {
 	r1
 	r %157 finis
 }
+
+TeErgoOrgano = {
+	\relative c {
+		\clef bass
+		\key g \minor \time 3/4 \tempoTeErgo
+			\set Score.currentBarNumber = #158
+		\mvTr g'4\pE-\soloE g g
+	}
+}
+
+TeErgoBassFigures = \figuremode {
+	
+}
