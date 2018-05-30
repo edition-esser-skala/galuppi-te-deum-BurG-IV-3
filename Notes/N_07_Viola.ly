@@ -6,8 +6,8 @@
 
 TeDeumViola = {
 	\relative c' {
-		\clef treble
-% 		\clef alto
+% 		\clef treble
+		\clef alto
 		\key d \major \time 4/4 \tempoTeDeum
 		d4\fE r d d
 		d8.[ d'16 a8. fis16] d4 d
