@@ -289,7 +289,7 @@ TeErgoAltoNotes = {
 		g4( b4.) a16([ g)] %210
 		g4 f r8 f
 		es4. d8 es4
-		\tuplet 3/2 4 { es8([ d es] } b'4) d,
+		\tuplet 3/2 4 { es8([ d f] } b4) d,
 		d c r
 		b b b %215
 		b2 b4
@@ -303,7 +303,7 @@ TeErgoAltoNotes = {
 		f8[ as] r as r f
 		r d[ f as] c[ b16 as] %225
 		g8[ a16 b] f4 r
-		f8[( g16 as]) g4. f16([ es)]
+		f8.[(^\critnote g32 as]) g4. f16([ es)]
 		f8.([ g32 as?)] g4. f16([ es)]
 		f8 g16([ as)] g4 r
 		es8 d16([ c)] b4( f') %230
@@ -316,7 +316,7 @@ TeErgoAltoNotes = {
 		f4. g8 as4
 		g b2
 		b8([ as] as[ g]) g([ f)] %240
-		\appoggiatura f4 es2 r4
+		\appoggiatura as?4 g2 r4
 		f f g8([ f)]
 		es2 es4
 		d8 es16([ f)] g4 f

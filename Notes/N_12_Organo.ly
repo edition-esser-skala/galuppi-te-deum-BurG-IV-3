@@ -333,7 +333,7 @@ TeErgoOrgano = {
 		\clef bass
 		\key g \minor \time 3/4 \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		\mvTr g'4\pE-\soloE g g
+		\mvTr g'4\fE-\soloE g g
 		g g g
 		fis2 fis4 %160
 		g g, r
@@ -345,16 +345,16 @@ TeErgoOrgano = {
 		b f d f d b
 		es4 f8 es f f,
 		b4 b c
-		d fis2 %170
+		d\pE fis2 %170
 		g4 g, r
 		fis'2.
 		g4 g, g'
-		c,8 h c d es fis
+		c,8\fE h c d es fis
 		g4 d' d, %175
 		g c,8 d es fis
 		g4 d d,
 		g2 r4
-		g' g g
+		g'\pE g g
 		g g g %180
 		fis2.
 		g4 b g
@@ -377,12 +377,12 @@ TeErgoOrgano = {
 		b b, b'
 		a2. %200
 		b4 b, d
-		es8 d es f g a
+		es8\fE d es f g a
 		b[ b,] f' es f f,
 		b4 es8 f g a
 		b4 f f, %205
 		b b'8 f d f
-		b,2.
+		b,2.\pE
 		b4 b b
 		b b b
 		b b b %210
@@ -448,7 +448,7 @@ TeErgoOrgano = {
 		g4 g, r %270
 		fis'2.
 		g4 g, r
-		c8 h c d es fis
+		c8\fE h c d es fis
 		g4 d' d,
 		g c,8 d es fis %275
 		g4 d d,
@@ -457,5 +457,29 @@ TeErgoOrgano = {
 }
 
 TeErgoBassFigures = \figuremode {
-	
+	r2. %158
+	r
+	r %160
+	r
+	r
+	r
+	r
+	r %165
+	r
+	r
+	r
+	r
+	r %170
+	r
+	r
+	r
+	r
+	r %175
+	r
+	r
+	r
+	r
+	<6 4> %180
+	<7>
+	r
 }

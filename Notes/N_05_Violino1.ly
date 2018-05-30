@@ -196,6 +196,125 @@ TeErgoViolinoI = {
 		\clef treble
 		\key g \minor \time 3/4 \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		d'4\fE g d
+		c4. d8 es4
+		es8 d d c c4 %160
+		b8 b'32 a b c b8 g d b
+		g8. h16 h2
+		c8. g'16 g2
+		f,8. a16 a2
+		b8. f'16 f2 %165
+		g8. g,16 g2
+		f8. f'16 f2
+		g8. es16 d4 c
+		b b, r
+		d16\p fis a fis d c a c d c a c %170
+		b g' b g d b g b d b g b
+		d fis a fis d c a c d c a c
+		b g b d g d b d g,8. d''16
+		es8.\f es16 es4. c8
+		b8. g'16 b,4 a %175
+		g8. es'16 es4. c8
+		b8. g'16 b,4 a
+		g g, r
+		d''\p g d
+		c4. d8 es4 %180
+		es8 d d c c4
+		b8. a16 g4 g,
+		d''2.
+		es
+		f %185
+		f
+		c4 d f
+		d c r
+		b d f
+		g8 g g g g g %190
+		g4 g g
+		f f8 c a c
+		es,2 f4
+		es2 d4
+		g8 a \appoggiatura c16 b8 a16 g f8 f' %195
+		g es d4 c
+		b b, r
+		f'16 a c a f es c es f es c es
+		d b d f b f d f b, c d e
+		f a c a f es c es f es c es %200
+		d b d f b f d f b, d f b
+		g8.\fE g'16 g4. es8
+		d8. b'16 d,4 c
+		b8. g16 g4. es8
+		d8. b'16 d,4 c %205
+		b2 r4
+		r8 d-.\pE d( es) es( f)
+		f( g) g( as) as( g)
+		g f f4 f
+		g4 b4. a!16 g %210
+		g4 f f'
+		es4. d8 es4
+		\tuplet 3/2 4 { es8[ d f] } b4 d,
+		d c f
+		f8( g) g( f) f4 %215
+		f,8( g) g( f) f4
+		as'2 g4
+		f es es
+		es f4. es8
+		d4 f f %220
+		f f f
+		g g g
+		g g g
+		as as as
+		as? as as %225
+		g f b,,
+		f''8.([ g32 as)] g4. f16 es
+		f8.([ g32 as)] g4. f16 es
+		f8 g16 as g4 b,16 c b as
+		g4 f2 %230
+		es4 b8-. b( c b)
+		es4 b8-. b( c b)
+		b2 r4
+		g' g' r
+		r8 b g es b g %235
+		f4 f' r
+		r8 d, f b d f
+		f4. g8 as4
+		g b2
+		b8 as as g g f %240
+		\appoggiatura as?4 g2 r4
+		f f g8 f
+		es2 es4
+		d8 es16 f g4 f
+		es d r %245
+		d, d' r
+		r8 g, b d g b
+		a4 a, r
+		r8 a d fis a a
+		a4. b8 c4 %250
+		b g,8 b d g
+		fis2 g4
+		\appoggiatura g fis2 r4
+		g g f
+		es2 d4 %255
+		c2 h4
+		es2 d4
+		c g' f
+		es d d
+		es es es %260
+		d2 g4
+		g fis8 e? fis4
+		g2 g16 fis g a
+		b4 b b
+		b2. %265
+		b
+		a
+		g2 r4
+		d,16 fis a fis d c a c d c a c
+		b g b d g d b d g, g' e? cis %270
+		d fis a fis d c a c d c a c
+		b g b d g d b d g, b d g
+		es8.\fE es'16 es4. c8
+		b8. g'16 b,4 a
+		g8. es'16 es4. c8 %275
+		b8. g'16 b,4 a
+		g b, r\fermata \bar "||" %277 finis
 	}
 }
