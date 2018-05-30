@@ -282,10 +282,133 @@ TeErgoAltoNotes = {
 		\clef treble
 		\key g \minor \time 3/4 \autoBeamOff \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		R2.*49 %206
+		\mvTr b'4\pE^\soloE b b
+		b2.~
+		b2 as4
+		g4( b4.) a16([ g)] %210
+		g4 f r8 f
+		es4. d8 es4
+		\tuplet 3/2 4 { es8([ d es] } b'4) d,
+		d c r
+		b b b %215
+		b2 b4
+		as'2 g4
+		\tuplet 3/2 4 { f8([ d f]) } es4 r8 es
+		es f16 g f4. es8
+		d[ f] r f r d %220
+		r b[ d f] as[ g16 f]
+		es8[ g] r g r es
+		r b[ es g] b[ as16 g]
+		f8[ as] r as r f
+		r d[ f as] c[ b16 as] %225
+		g8[ a16 b] f4 r
+		f8[( g16 as]) g4. f16([ es)]
+		f8.([ g32 as?)] g4. f16([ es)]
+		f8 g16([ as)] g4 r
+		es8 d16([ c)] b4( f') %230
+		es2 r4
+		R2.*2
+		g2 as8([ f)]
+		g2 r4 %235
+		f2 g8([ es)]
+		f2 r4
+		f4. g8 as4
+		g b2
+		b8([ as] as[ g]) g([ f)] %240
+		\appoggiatura f4 es2 r4
+		f f g8([ f)]
+		es2 es4
+		d8 es16([ f)] g4 f
+		es d r %245
+		d2 es8([ c)]
+		d2 r4
+		fis2 g8([ e)]
+		fis2 r4
+		fis4. g8 a4 %250
+		g d r
+		fis2 g4
+		\appoggiatura g fis2 r4
+		g g f
+		es2 d4 %255
+		c2 h4
+		es2( d4
+		c g') f
+		es d r
+		es es es %260
+		d2 g4
+		g( fis8[ e?] fis4)
+		g2 r4
+		b b b
+		b2. %265
+		b
+		a
+		g2 r4
+		R2.*8 %276
+		R2.\fermataMarkup \bar "||" %277 finis
 	}
 }
 
 TeErgoAltoLyrics = \lyricmode {
+	Ae -- ter -- na %207
+	fac __
+	cum
+	san -- ctis %210
+	tu -- is in
+	glo -- ri -- a
+	nu -- me --
+	ra -- ri.
+	Ae -- ter -- na %215
+	fac cum
+	san -- ctis
+	tu -- is in
+	glo -- ri -- a nu -- me --
+	ra -- _ _ %220
+	_ _
+	_ _ _
+	_ _
+	_ _ _
+	_ _ %225
+	_ ri,
+	cum __ san -- ctis
+	tu -- is in
+	glo -- ri -- a
+	nu -- me -- ra -- %230
+	ri.
 	
+	Sal -- vum %234
+	[fac, %235
+	sal -- vum
+	fac
+	po -- pu -- lum
+	tu -- um,
+	Do -- mi -- %240
+	ne,
+	et be -- ne --
+	dic hae --
+	re -- di -- ta -- ti
+	tu -- ae.] %245
+	[Sal -- vum
+	fac,
+	sal -- vum
+	fac
+	po -- pu -- lum %250
+	tu -- um,]
+	Do -- mi --
+	ne,
+	et be -- ne --
+	dic hae -- %255
+	re -- di --
+	ta --
+	ti
+	tu -- ae,
+	hae -- re -- di -- %260
+	ta -- ti
+	tu --
+	ae,
+	hae -- re -- di --
+	ta -- %265
+	ti
+	tu --
+	ae. %268 finis
 }
