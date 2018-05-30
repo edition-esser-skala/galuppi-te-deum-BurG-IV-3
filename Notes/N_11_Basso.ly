@@ -258,10 +258,10 @@ TeDeumBassoLyrics = \lyricmode {
 	se -- des, in
 	glo -- ria
 	Pa -- tris. %150
-	Ju -- dex cre -- de -- ris __
+	Ju -- dex __ cre -- de -- ris __
 	es -- se ven -- tu --
 	rus.
-	Ju -- dex cre -- de -- ris __
+	Ju -- dex __ cre -- de -- ris __
 	es -- se ven -- tu -- %155
 	rus. %156 finis
 }

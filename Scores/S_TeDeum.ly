@@ -27,7 +27,7 @@
 				>>
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = "Clarino I, II"
+						\set Staff.instrumentName = \markup { \center-column { "Clarino I, II" "in D" } }
 						\partcombine \TeDeumClarinoI \TeDeumClarinoII
 					>>
 				>>
@@ -89,7 +89,7 @@
 				}
 			>>
 			\layout { }
-			\midi { \tempo 4 = 140 }
+			\midi { \tempo 4 = 120 }
 		}
 	}
 }
