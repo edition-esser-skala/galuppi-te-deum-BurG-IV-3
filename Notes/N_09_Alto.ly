@@ -418,9 +418,150 @@ EtRegeAltoNotes = {
 		\clef treble
 		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
 			\set Score.currentBarNumber = #278
+		\mvTr a'4\fE^\tuttiE a8 a a4 a
+		a a8 a a4 a
+		a8 a a gis a4 a %280
+		fis fis gis gis
+		a a r2
+		g!2 g
+		fis4 h a2
+		a4 r r r8 a %285
+		a4 a8 a g4 h
+		a a8 a a4 a
+		g2 r
+		g4 g fis fis
+		g g a g8 g %290
+		fis4. fis8 fis4 r
+		a2 a 
+		a4. a8 a2
+		a4 a8 h a4. a8
+		a2 r %295
+		r r4 fis
+		fis2 fis
+		fis4. fis8 fis2
+		fis g
+		fis4 fis r2 %300
+		fis4 fis8 fis fis4 fis
+		g2 g4 gis
+		fis2 fis4 r
+		a! a a a
+		a( g!8[ a)] g2 %305
+		fis4. fis8 fis2
+		g4 g g g
+		g fis r2
+		fis4 fis8 fis fis4 fis
+		e4. e8 e2 %310
+		g g
+		fis4. fis8 fis2
+		a g
+		fis r4 g
+		a a g g %315
+		e4. a8 a4 a
+		a2 r
+		d d
+		d4. d8 d4 d
+		d1 %320
+		d2 r
+		a a
+		a4. a8 a4 a
+		a1
+		a2 a4 a %325
+		a a a a
+		a a a a
+		a a a a
+		a a r2
+		a a %330
+		fis a
+		h h
+		\tieDashed a1~
+		a~
+		a~ \tieSolid %335
+		a
+		a2 a4 a
+		a a a a
+		a a a a
+		a a a a %340
+		a a r2
+		a a
+		fis a
+		h h
+		\tieDashed a1~ %345
+		a~
+		a~ \tieSolid
+		a
+		a2 r
+		R1\fermataMarkup \bar "|." %350 FINIS
 	}
 }
 
 EtRegeAltoLyrics = \lyricmode {
+	[Et re -- ge e -- os, %278
+	et re -- ge e -- os,
+	et ex -- tol -- le il -- los %280
+	us -- que in ae --
+	ter -- num,
+	us -- que
+	in ae -- ter --
+	num.] [Per %285
+	sin -- gu -- los di -- es
+	be -- ne -- di -- ci -- mus
+	te.]
+	[Et lau -- da -- mus
+	no -- men tu -- um in %290
+	sae -- cu -- lum,
+	et in
+	sae -- cu -- lum,
+	sae -- cu -- lum sae -- cu --
+	li.] %295
+	[Di --
+	gna -- re,
+	Do -- mi -- ne,
+	di -- e
+	i -- sto %300
+	si -- ne pec -- ca -- to
+	nos cu -- sto --
+	di -- re.]
+	[Mi -- se -- re -- re
+	no -- stri, %305
+	Do -- mi -- ne,
+	mi -- se -- re -- re
+	no -- stri.]
+	[Fi -- at mi -- se -- ri --
+	cor -- di -- a %310
+	tu -- a,
+	Do -- mi -- ne,
+	su -- per
+	nos, quem --
+	ad -- mo -- dum spe -- %315
+	ra -- vi -- mus in
+	te.]
+	[In te,
+	Do -- mi -- ne, spe --
+	ra -- %320
+	vi,
+	in te,
+	Do -- mi -- ne, spe --
+	ra --
+	vi: Non con -- %325
+	fun -- dar in ae --
+	ter -- num, non con --
+	fun -- dar in ae --
+	ter -- num,
+	non con -- %330
+	fun -- dar
+	in ae --
+	ter --
+
+	num, non con -- %337
+	fun -- dar in ae --
+	ter -- num, non con --
+	fun -- dar in ae -- %340
+	ter -- num,
+	non con --
+	fun -- dar
+	in ae --
+	ter -- %345
 	
+	num.] %349
+	%350 FINIS
 }
