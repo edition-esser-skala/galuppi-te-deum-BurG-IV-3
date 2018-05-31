@@ -181,24 +181,24 @@ TeErgoOboeI = {
 		g2.
 		f
 		g8. es16 d4 c
-		b2 r4
+		\pao b2 r4
 		a'8.\pE c,16 c2 %170
 		b4 b' r
 		a8. c,16 c2
 		b d4
 		es8.\fE es16 es4. c8
 		b8. g'16 b,4 a %175
-		g8. es'16 es4. c8
+		\pa g8. es'16 \pd es4. c8
 		b8. g'16 b,4 a
-		g2 r4
+		\pao g2 r4
 		R2.*19 %197
-		f8.\pE es'16 es2
+		\pa f8.\pE es'16 \pd es2
 		d r4
 		es4 es2 %200
 		d4 d r
 		g,8.\fE g'16 g4. es8
 		d8. b'16 d,4 c
-		b8. g16 g4. c8
+		\pa b8. g16 \pd g4. c8
 		b4 d c %205
 		b2 r4
 		R2.*62 %268
@@ -208,8 +208,8 @@ TeErgoOboeI = {
 		b4 b' r
 		es,8.\fE es16 es4. c8
 		b8. g'16 b,4 a
-		g8. es'16 es4. c8 %275
+		\pa g8. es'16 \pd es4. c8 %275
 		b8. g'16 b,4 a
-		g2 r4\fermata \bar "||" %277 finis
+		\pao g2 r4\fermata \bar "||" %277 finis
 	}
 }

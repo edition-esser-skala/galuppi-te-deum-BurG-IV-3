@@ -173,6 +173,43 @@ TeErgoOboeII = {
 		\clef treble
 		\key g \minor \time 3/4 \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		R2.*4 %161
+		h'2.\fE
+		c
+		a
+		b2 d4 %165
+		es2.
+		d
+		es8. c16 b4 a
+		b2^\critnote r4
+		c8.\pE a16 a2 %170
+		g4 g' r
+		c,8. a16 a2
+		g b4
+		c8.\fE c16 c4. a8
+		g8. b16 g4 fis %175
+		g8. c16 c4. a8
+		g8. b16 g4 fis
+		g2 r4
+		R2.*19 %197
+		f8.\pE c'16 c2
+		b r4
+		c4 c2 %200
+		b4 b r
+		es,8.\fE es'16 es4. c8
+		b8. d16 b4 a
+		b8. es,16 es4. es8
+		d4 d' c %205
+		b2 r4
+		R2.*62 %268
+		fis'8.\pE a,16 a2
+		g4 g' r %270
+		fis8. a,16 a2
+		g4 g' r
+		c,8.\fE c16 c4. a8
+		g8. b16 g4 fis
+		g8. c16 c4. a8 %275
+		g8. b16 g4 fis
+		g2 r4\fermata \bar "||" %277 finis
 	}
 }
