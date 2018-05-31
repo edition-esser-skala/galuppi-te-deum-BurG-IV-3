@@ -426,10 +426,10 @@ EtRegeSopranoLyrics = \lyricmode {
 	non con --
 	fun -- dar
 	in ae --
-	ter -- %345
+	ter] -- %345
 	_
 	_ _
 	_
-	num.]
+	num.
 	%350 FINIS
 }

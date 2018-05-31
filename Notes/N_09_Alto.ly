@@ -560,8 +560,8 @@ EtRegeAltoLyrics = \lyricmode {
 	non con --
 	fun -- dar
 	in ae --
-	ter -- %345
+	ter] -- %345
 	
-	num.] %349
+	num. %349
 	%350 FINIS
 }
