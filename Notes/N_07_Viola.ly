@@ -171,10 +171,129 @@ TeDeumViola = {
 
 TeErgoViola = {
 	\relative c' {
-		\clef treble
-% 		\clef alto
+% 		\clef treble
+		\clef alto
 		\key g \minor \time 3/4 \tempoTeErgo
 			\set Score.currentBarNumber = #158
-		
+		g'4\fE g g
+		g g g
+		fis2 fis4 %160
+		g g, r
+		r8 as' g as g f
+		es c es g es c
+		r ges' f ges f es
+		d b d f d b %165
+		es d es f g! a!
+		b f d f d b
+		es4 f8 es f f,
+		b4 b c
+		d8\pE d d d d d %170
+		d d d d d d
+		d d d d d d
+		d d d d d d
+		c\fE h c d es fis
+		g4 d' d, %175
+		g c,8 d es fis
+		g4 d d,
+		g2 r4
+		g'\pE g g
+		g g g %180
+		fis2.
+		g4 b g
+		g g g
+		c, c c
+		a a a %185
+		b b b
+		f' b, b
+		f' f es
+		d8 d d d d d
+		es es es es es es %190
+		e4 e e
+		f f, r
+		a'2 b4
+		f f, b
+		es es, b' %195
+		es f f,
+		b b8 d f b
+		c, c c c c c
+		d d d4 r
+		c8 c c c c c %200
+		d d d d d d
+		es\fE d es f g a
+		b[ b,] f' es f f,
+		b4 es8 f g a
+		b4 f f, %205
+		b b'8 f d f
+		b,2.\pE
+		b4 b b
+		b b b
+		b b b %210
+		b b b
+		f' f, f
+		b' b, b
+		f' f a,
+		b b b %215
+		b b b
+		c d es
+		b es g
+		a! a a
+		b b, b %220
+		b b b
+		es es es
+		es es es
+		es es es
+		d d d %225
+		es b' b,
+		b es r
+		b es r
+		b es r
+		es b' b, %230
+		es es, es
+		es es es
+		es2 r4
+		es' es b
+		es es, r %235
+		b' b es
+		b b' r
+		b, b b
+		es es, es'
+		as b b, %240
+		es es8 f g a
+		b4 b, b
+		c a f
+		b b b
+		f' b8 c b a %245
+		g4 g, r
+		g' g, r
+		d' d' r
+		d, d' d,
+		d d d %250
+		g g, g'
+		d2 cis4
+		d d c
+		h2.
+		c4 es g %255
+		c c, g'
+		c c, g'
+		c c, g'
+		c g h
+		c c,8 d es f %260
+		g4 g,8 a b g
+		c4 d d,
+		g g' r
+		g g8 a g f
+		es4 es8 f es d %265
+		cis4 cis cis
+		d2 d,4
+		g g'8 a b g
+		d d d d d d
+		d d d d d d %270
+		d d d d d d
+		d d d d d d
+		c\fE h c d es fis
+		g4 d' d,
+		g c,8 d es fis %275
+		g4 d d,
+		g2 r4\fermata \bar "||" %277 finis
 	}
 }
