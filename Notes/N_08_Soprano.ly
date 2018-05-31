@@ -282,7 +282,7 @@ EtRegeSopranoNotes = {
 		\clef treble
 		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
 			\set Score.currentBarNumber = #278
-		\mvTr d'4\fE^\tuttiE d8 d d4 d
+		\mvDll d'4\fE^\tuttiE d8 d d4 d
 		cis cis8 cis cis4 cis
 		d8 fis e d cis4 cis %280
 		d d d d

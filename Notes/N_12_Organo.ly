@@ -584,7 +584,7 @@ EtRegeOrgano = {
 		\clef bass
 		\key d \major \time 4/4 \tempoEtRege
 			\set Score.currentBarNumber = #278
-		\mvTr d8\fE-\tuttiE d d d d d d d
+		\mvDll d8\fE-\tuttiE d d d d d d d
 		a' a a, a a a a a
 		d d cis h a a a a %280
 		h h h h e e e e

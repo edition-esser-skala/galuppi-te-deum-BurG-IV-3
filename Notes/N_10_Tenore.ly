@@ -406,7 +406,7 @@ EtRegeTenoreNotes = {
 		\clef "treble_8"
 		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
 			\set Score.currentBarNumber = #278
-		\mvTr fis4\fE^\tuttiE fis8 fis fis4 fis
+		\mvDll fis4\fE^\tuttiE fis8 fis fis4 fis
 		e e8 e e4 e
 		fis8 d e e e4 e %280
 		d h h e

@@ -418,7 +418,7 @@ EtRegeAltoNotes = {
 		\clef treble
 		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
 			\set Score.currentBarNumber = #278
-		\mvTr a'4\fE^\tuttiE a8 a a4 a
+		\mvDll a'4\fE^\tuttiE a8 a a4 a
 		a a8 a a4 a
 		a8 a a gis a4 a %280
 		fis fis gis gis
