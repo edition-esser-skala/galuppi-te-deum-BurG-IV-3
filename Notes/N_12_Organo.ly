@@ -578,3 +578,88 @@ TeErgoBassFigures = \figuremode {
 	r4 <6 4> <5 _+>
 	r2. %277 finis
 }
+
+EtRegeOrgano = {
+	\relative c {
+		\clef bass
+		\key d \major \time 4/4 \tempoEtRege
+			\set Score.currentBarNumber = #278
+		\mvTr d8\fE-\tuttiE d d d d d d d
+		a' a a, a a a a a
+		d d cis h a a a a %280
+		h h h h e e e e
+		a4 a,8 a a4 cis
+		h8 h h h cis cis cis cis
+		d d g g a a a, a
+		d d16 d d8 d d4 d8 d %285
+		d d c c h h g g
+		fis fis a a fis fis d d
+		g g' g g g g g g
+		g g, g g d' d c c
+		h h g g fis fis g g %290
+		d' d, d d d4 d'16 e fis g
+		a8 a a a a a a a
+		a a a a d a fis d
+		a' a fis g a a a, a
+		d4 d8 d d4 d8 d %295
+		d4 d8 d d4 h
+		h h h h
+		fis'4. fis8 fis4 fis
+		d d e e
+		fis fis, fis r %300
+		fis' fis8 fis h4 h,
+		e e e eis
+		fis fis, h h
+		dis dis dis dis
+		e e e e %305
+		h h h h
+		ais ais ais ais
+		h h h h
+		h h h h
+		c c c c %310
+		cis cis cis cis
+		d d d d
+		fis fis g g
+		d d h g
+		fis fis g g %315
+		a4. a8 a4 d
+		a a' a, r
+		d8 d' a fis d4 d
+		d8 d' a fis d4 d
+		d8 d' a fis d4 d %320
+		d8 d16 d d8 d d4 d16 e fis gis
+		a8 a e cis a4 a
+		a8 a' e cis a4 a
+		a8 a' e cis a4 a
+		a8 a' a,4 d8 d d d %325
+		cis cis e e cis cis a a
+		d d fis fis d d a a
+		cis cis e e cis cis a a
+		d d d d d4 d,
+		d'8 d d d a a a a %330
+		h h h h fis fis fis fis
+		g g g g gis gis gis gis
+		a a a a a a a a
+		a a a a a a a a
+		a a a a a a a a %335
+		a a a a a a a a
+		d4 d, d'8 d d d
+		cis cis e e cis cis a a
+		d d fis fis d d a a
+		cis cis e e cis cis a a %340
+		d d, d d d' d fis a
+		d d d d a a a a
+		h h h h fis fis fis fis
+		g g g g gis gis gis gis
+		a a, a a a a a a %345
+		a a a a a a a a
+		a a a a a a a a
+		a a a a a a a a
+		d4 d,8 d d4 d8 d
+		d d16 d d8 d d4 r\fermata \bar "|." %350 FINIS
+	}
+}
+
+EtRegeBassFigures = \figuremode {
+	
+}

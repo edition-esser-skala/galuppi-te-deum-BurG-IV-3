@@ -297,3 +297,13 @@ TeErgoViola = {
 		g2 r4\fermata \bar "||" %277 finis
 	}
 }
+
+EtRegeViola = {
+	\relative c' {
+		\clef treble
+% 		\clef alto
+		\key d \major \time 4/4 \tempoEtRege
+			\set Score.currentBarNumber = #278
+			
+	}
+}

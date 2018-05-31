@@ -265,3 +265,15 @@ TeDeumBassoLyrics = \lyricmode {
 	es -- se ven -- tu -- %155
 	rus. %156 finis
 }
+
+EtRegeBassoNotes = {
+	\relative c {
+		\clef bass
+		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
+			\set Score.currentBarNumber = #278
+	}
+}
+
+EtRegeBassoLyrics = \lyricmode {
+	
+}

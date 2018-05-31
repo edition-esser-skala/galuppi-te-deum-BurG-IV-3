@@ -412,3 +412,15 @@ TeErgoAltoLyrics = \lyricmode {
 	tu --
 	ae. %268 finis
 }
+
+EtRegeAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
+			\set Score.currentBarNumber = #278
+	}
+}
+
+EtRegeAltoLyrics = \lyricmode {
+	
+}

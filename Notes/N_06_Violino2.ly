@@ -295,3 +295,12 @@ TeErgoViolinoII = {
 		g g, r\fermata \bar "||" %277 finis
 	}
 }
+
+EtRegeViolinoII = {
+	\relative c' {
+		\clef treble
+		\key d \major \time 4/4 \tempoEtRege
+			\set Score.currentBarNumber = #278
+			
+	}
+}

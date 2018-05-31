@@ -213,3 +213,12 @@ TeErgoOboeI = {
 		\pao g2 r4\fermata \bar "||" %277 finis
 	}
 }
+
+EtRegeOboeI = {
+	\relative c' {
+		\clef treble
+		\key d \major \time 4/4 \tempoEtRege
+			\set Score.currentBarNumber = #278
+			
+	}
+}

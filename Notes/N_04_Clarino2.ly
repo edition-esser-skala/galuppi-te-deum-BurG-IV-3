@@ -117,3 +117,12 @@ TeDeumClarinoII = {
 		c c16 c c8 c c4 r\fermata \bar "||" %157 finis
 	}
 }
+
+EtRegeClarinoII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoEtRege
+			\set Score.currentBarNumber = #278
+			
+	}
+}

@@ -400,3 +400,15 @@ TeErgoTenoreLyrics = \lyricmode {
 	tu --
 	ae. %268 finis
 }
+
+EtRegeTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key d \major \time 4/4 \autoBeamOff \tempoEtRege
+			\set Score.currentBarNumber = #278
+	}
+}
+
+EtRegeTenoreLyrics = \lyricmode {
+	
+}
