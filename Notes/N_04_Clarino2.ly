@@ -123,6 +123,56 @@ EtRegeClarinoII = {
 		\clef treble
 		\key c \major \time 4/4 \tempoEtRege
 			\set Score.currentBarNumber = #278
-			
+		c'4\fE c8 c c4 r
+		g g8 g g4 g
+		c r r2 %280
+		R1
+		r8 g g g g4 r
+		R1*2
+		r8 c16 c c8 c c4 r %285
+		R1*2
+		c4 c8 c c4 c
+		c2 c
+		c c %290
+		c8 c16 e e8 e e4 r8 c_\critnote
+		g2 c
+		d c
+		g4 c g2
+		e4 c'8 c c4 c8 c %295
+		c4 c8 c c4 r
+		R1*21 %317
+		e,4 r e e
+		c' r c c
+		c r c c %320
+		e8 e16 e e8 e e4 r
+		g, r g g
+		g r g g
+		g r g g
+		g8 g16 g g4 c c %325
+		d2 r4 d
+		c4 c8 c c4 c
+		d2 r4 d
+		c8 c16 c c8 c c4 r
+		c r c r %330
+		c r c r
+		R1
+		g4 g8 g g4 r
+		c c8 c c4 r
+		d2 c %335
+		g1
+		e4 r r c'
+		d2 r4 d
+		c c8 c c4 c
+		d2 r4 d %340
+		c c8 c c4 c
+		c r c r
+		c r c r
+		R1
+		g4 g8 g g4 r %345
+		c c8 c c4 r
+		d2 c
+		g1
+		c4 c8 c c4 c8 c
+		c c16 c c8 c c4 r\fermata \bar "|." %350 FINIS
 	}
 }

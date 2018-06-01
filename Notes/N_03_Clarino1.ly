@@ -148,7 +148,7 @@ EtRegeClarinoI = {
 		d r d d
 		d r d d
 		d r d d
-		d8 d16 d d8 d e4 e %325
+		d8 d16 d d4 e e %325
 		f2 r4 f
 		e e8 e e4 e
 		f2 r4 f
