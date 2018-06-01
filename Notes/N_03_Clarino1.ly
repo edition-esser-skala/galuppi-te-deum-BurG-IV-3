@@ -118,6 +118,15 @@ TeDeumClarinoI = {
 	}
 }
 
+TeErgoClarinoI = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoTeErgo
+		\override MultiMeasureRest.minimum-length = #50
+		R2.*120 \bar "||" %277
+	}
+}
+
 EtRegeClarinoI = {
 	\relative c' {
 		\clef treble
