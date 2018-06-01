@@ -8,7 +8,7 @@ TeDeumOboeII = {
 	\relative c' {
 		\clef treble
 		\key d \major \time 4/4 \tempoTeDeum
-		d'4 r fis, fis
+		d'4\fE r fis, fis
 		fis1
 		d'
 		fis8 fis16 fis fis8 fis fis4 r

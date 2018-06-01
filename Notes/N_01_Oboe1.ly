@@ -24,7 +24,7 @@ TeDeumOboeI = {
 		fis a fis a fis a fis a
 		e g e g e g e g %15
 		fis a a4 g8 e e4
-		d2 fis4 a
+		\pao d2 fis4 a
 		a2 fis4 a
 		a fis8 fis fis4 fis8 fis
 		fis fis16 fis fis8 fis fis4 r %20
@@ -43,7 +43,7 @@ TeDeumOboeI = {
 		fis8 a fis a fis a fis a
 		e a e a e a e a
 		d, h' d, h' d, h' d, h' %35
-		cis, a' a a a e cis a
+		cis, a' a a \pa a e cis a \pd
 		fis' fis fis fis fis16 e dis cis h a gis a
 		gis8 h h h h4 r
 		d!2 cis
@@ -53,7 +53,7 @@ TeDeumOboeI = {
 		d2 cis
 		h cis
 		d cis %45
-		h4 cis8 e e4 a,16 h cis d
+		h4 cis8 e e4 \pa a,16 h cis d \pd
 		e2 e4 g!
 		fis2 e4 e
 		fis8 fis fis fis fis4 d,16 e fis g
@@ -67,13 +67,13 @@ TeDeumOboeI = {
 		d
 		d
 		cis
-		e4 e8 e fis4 e %60
+		e4 \pa e8 e \pd fis4 e %60
 		d2 cis8 e e e
 		e2 e
 		e4 dis e8 e,16 fis gis a h cis
 		d8 d d d d d d d
-		cis cis cis cis h h h h %65
-		a a'16 a a8 a a4 g!
+		\pa cis cis cis cis \pd h h h h %65
+		\pa a a'16 a \pd a8 a a4 g!
 		fis e r2
 		d4 a' r2
 		d,4 cis r r8 cis
@@ -82,7 +82,7 @@ TeDeumOboeI = {
 		dis e r2
 		d1
 		cis2 h
-		a4 cis8 cis e e g! g %75
+		\pao a4 cis8 cis e e g! g %75
 		fis4 fis fis fis
 		e e e e
 		d d d d
@@ -102,7 +102,7 @@ TeDeumOboeI = {
 		fis
 		g
 		fis4 fis8 fis fis a, d fis
-		fis fis fis e16 fis g4 h %95
+		fis fis \pa fis e16 fis \pd g4 h %95
 		a fis d c
 		h8 g' d d e e a a
 		a a a a g d g h
@@ -136,14 +136,14 @@ TeDeumOboeI = {
 		fis4 fis fis fis
 		e e e e
 		d d d d
-		cis8 a' a a a4 a,16 h cis d
+		cis8 a' a a a4 \pa a,16 h cis d \pd
 		e1 %130
 		e
 		d4 e d d
 		cis4. cis8 cis4 cis
 		d1
 		cis2 cis %135
-		h4 r r2
+		\pao h4 r r2
 		fis'1
 		g
 		fis2 g4 r
@@ -157,13 +157,13 @@ TeDeumOboeI = {
 		fis2 e
 		fis4 fis8 fis fis4 fis
 		fis1
-		fis4 e a,16 h cis d e fis g a %150
+		fis4 e \pa a,16 h cis d \pd e fis g a %150
 		fis1
 		e4 a8^\critnote g fis4 e
-		d fis8 fis fis a, d fis
+		\pao d fis8 fis fis a, d fis
 		fis1
 		e4 a8 g fis4 e %155
-		d fis8 fis fis4 fis8 fis
+		\pao d fis8 fis fis4 fis8 fis
 		fis fis16 fis fis8 fis fis4 r\fermata \bar "||" %157 finis
 	}
 }
