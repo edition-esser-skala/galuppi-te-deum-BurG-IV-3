@@ -301,6 +301,78 @@ EtRegeViolinoII = {
 		\clef treble
 		\key d \major \time 4/4 \tempoEtRege
 			\set Score.currentBarNumber = #278
-			
+		d'4\fE d8 d d a fis d
+		a4 <e' cis'>8 q cis' a e cis
+		<d a' fis'> fis' e d cis16 cis cis cis cis cis cis cis %280
+		h d d d d d d d h d d d d d d d
+		cis8 a' e cis a16 h cis d e fis g e
+		d d d d d d d d e e e e e e e e
+		<fis a, d,>8. q16 <g h, d,>8. e16 d d d d cis cis cis cis
+		d8 <fis a, d,>16 q q8 q q4 q8 q %285
+		q4 fis8.( e32 fis) g16 g g g g g g g
+		a a a a a a a a a a a a a a a a
+		g g d d h h g g d d g g h h d d
+		g g g g g g g g fis fis fis fis fis fis fis fis
+		g g g g g g g g a8 a g g %290
+		fis fis16 fis fis8 fis fis4 d
+		cis!16 cis cis cis cis cis cis cis d d d d d d d d
+		e e e e e e e e d d d d d d d d
+		cis cis cis cis d d d d d d d d cis cis cis cis
+		d4 <d fis,>8 q q4 q8 q %295
+		q4 q8 q q4 d
+		d d d d
+		cis4. cis8 cis4 ais
+		h h2 cis8 h
+		ais8.[ ais16 cis8. ais16] fis4 fis8 ais %300
+		ais4 ais8 ais h4 h
+		g g g h
+		h ais h h,
+		h' fis' fis fis
+		fis e8 fis e4 e %305
+		dis dis dis dis
+		e e e e
+		e dis dis dis
+		dis dis dis dis
+		e e e e %310
+		e e e e
+		fis fis fis fis
+		c c h h
+		a a h h
+		c c h h %315
+		cis cis cis d
+		cis8 cis a e a,4 r8 r16 d'
+		<d d,>4 r8 r16 a, d8.[ a16 d8. fis16]
+		<fis a>4 r8 r16 d fis8.[ d16 fis8. a16]
+		<d d,>4 r8 r16 fis, a8.[ fis16 a8. d16] %320
+		<fis a, d,>8 q16 q q8 q q4 d,16 e fis gis
+		<a e a,>4 r8 r16 a, cis8.[ a16 cis8. e16]
+		<a e a,>4 r8 r16 cis, e8.[ cis16 e8. a16]
+		<cis a>4 r8 r16 e, a8.[ e16 a8. cis16]
+		<cis e>8 q16 q q4 d16 d d d d d d d %325
+		e e e e e e e e e e e e e e e e
+		d d d d d d d d d d d d d d d d
+		e e e e e e e e e e e e e e e e
+		<fis a, d,>8 q q q q fis, a d
+		d16 d d d d d d d d d d d d d d d %330
+		d d d d d d d d d d d d d d d d
+		d d d d d d d d d d d d d d d d
+		cis cis cis cis cis cis cis cis cis cis cis cis cis cis cis cis
+		d d d d d d d d d d d d d d d d
+		e e e e e e e e d d d d d d d d %335
+		d d d d d d d d cis cis cis cis cis cis cis cis
+		d8 d, d4 d'16 d d d d d d d
+		e e e e e e e e e e e e e e e e
+		d d d d d d d d d d d d d d d d
+		e e e e e e e e e e e e e e e e %340
+		d d d d d d d d d d d d d d d d
+		d d d d d d d d d d d d d d d d
+		d d d d d d d d d d d d d d d d
+		d d d d d d d d d d d d d d d d
+		cis cis cis cis cis cis cis cis cis cis cis cis cis cis cis cis %345
+		d d d d d d d d d d d d d d d d
+		e e e e e e e e d d d d d d d d
+		d d d d d d d d cis cis cis cis cis cis cis cis
+		<d d,>4 q8 q q4 q8 q
+		q q16 q q8 q q4 r\fermata \bar "|." %350 FINIS
 	}
 }
