@@ -328,8 +328,8 @@ EtRegeViolinoI = {
 		a,4 <a' cis e>8 q q cis a e
 		<d a' fis'> a'' a gis a16 a a a e e e e %280
 		d h' h h h h h h d, h' h h h h h h
-		a8 a e cis a16 h cis d e fis g a
-		g! g g g g g g g g g g g g g g g
+		a8 a e cis a16 h cis d e fis g! a
+		g g g g g g g g g g g g g g g g
 		<fis a, d,>8. fis16 <g h, d,>8. g16 fis fis fis fis e e e e
 		d8 <fis a, d,>16 q q8 q q4 q8 q %285
 		q4 fis8.( e32 fis) g16 g g g h h h h

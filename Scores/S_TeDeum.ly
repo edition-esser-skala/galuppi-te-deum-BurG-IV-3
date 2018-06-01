@@ -158,8 +158,7 @@
 				\new StaffGroup <<
 					\new Staff <<
 						\set Staff.instrumentName = "Oboe I, II"
-						\new Voice { \voiceOne \EtRegeOboeI }
-						\new Voice { \voiceTwo \EtRegeOboeII }
+						\partcombine \EtRegeOboeI \EtRegeOboeII
 					>>
 				>>
 				\new StaffGroup <<
