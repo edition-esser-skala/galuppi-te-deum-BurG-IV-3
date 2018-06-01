@@ -219,6 +219,78 @@ EtRegeOboeII = {
 		\clef treble
 		\key d \major \time 4/4 \tempoEtRege
 			\set Score.currentBarNumber = #278
-			
+		d'4\fE d8 d d4 d
+		cis cis8 cis cis4 cis
+		d8 fis e d cis4 cis %280
+		h8 d h4 h8 d h4
+		a8 a' e cis a16 h cis d e fis g! fis
+		d2 e
+		d8. d16 h8. e16 d4 cis
+		d8 d16 d d8 d d4 d8 d %285
+		d4 a8 a g g g' g
+		a4 a8 a a4 a
+		g8 d h g d g h d
+		g g g g fis fis fis fis
+		g g g g a a g g %290
+		fis fis16 fis fis8 fis fis4 d
+		a2_\critnote d
+		e d
+		cis4 d2 cis4
+		d d8 d d4 d8 d %295
+		d4 d8 d d4 d
+		d d d h
+		ais4. ais8 ais4 cis
+		h h h cis8 h
+		ais4 ais ais r %300
+		ais4 ais8 ais h4 h
+		g g g h
+		h ais h h,
+		h' fis' fis fis
+		fis e8 fis e4 e %305
+		dis dis dis dis
+		e e e e
+		e dis dis dis
+		dis dis dis dis
+		e e e e %310
+		e e e e
+		fis fis fis fis
+		c c h h
+		a a h h
+		c c h h %315
+		cis cis cis d
+		cis2 r
+		d,1
+		fis
+		a2 d %320
+		fis8 fis16 fis fis8 fis fis4 r
+		e,1_\critnote
+		a
+		cis
+		cis8 cis16 cis cis4 d2 %325
+		e1
+		d
+		e
+		d8 d d d d4 r
+		d1 %330
+		d
+		d
+		cis
+		d
+		e2 d~ %335
+		d cis
+		d8 d, d4 d'2
+		e1
+		d
+		e %340
+		d
+		d
+		d
+		d
+		cis %345
+		d
+		e2 \once \tieDashed d~
+		d cis
+		d4 d8 d d4 d8 d
+		d d16 d d8 d d4 r\fermata \bar "|." %350 FINIS
 	}
 }

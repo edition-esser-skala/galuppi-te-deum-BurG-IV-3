@@ -221,12 +221,12 @@ EtRegeOboeI = {
 			\set Score.currentBarNumber = #278
 		fis'4\fE fis8 fis fis4 fis
 		e e8 e e4 e
-		fis8 a4 gis8 a4 e %280
+		\pa fis8 a4 gis8 \pd a4 e %280
 		d8 h' d,4 d8 h' d,4
-		cis8 a' e cis a16 h cis d e fis g! a
+		\pa cis8 a' e cis \pd a16 h cis d e fis g! a
 		g2 g
 		fis8. fis16 g8. g16 fis4 e
-		d8 fis16 fis fis8 fis fis4 fis8 fis %285
+		\pa d8 fis16 fis \pd fis8 fis fis4 fis8 fis %285
 		fis4 fis8.( e32 fis) g8 g h h
 		c4 c8 c c4 c
 		h8 g d h g h d g
@@ -236,12 +236,12 @@ EtRegeOboeI = {
 		e2 fis
 		g fis
 		e4 fis8. e16 e2
-		d4 fis8 fis fis4 fis8 fis %295
+		\pao d4 fis8 fis fis4 fis8 fis %295
 		fis4 fis8 fis fis4 fis
 		fis fis fis fis
 		fis4. fis8 fis2
 		fis4 fis g g
-		fis8.[ fis16 cis8. ais16] fis8 fis ais cis %300
+		fis8.[ fis16 cis8. ais16] \pa fis8 fis ais cis \pd %300
 		cis4 cis8 cis d4 d
 		e e e d
 		cis cis h h,
@@ -290,7 +290,7 @@ EtRegeOboeI = {
 		fis
 		g2 fis
 		e1
-		d4 fis8 fis fis4 fis8 fis
+		\pao d4 fis8 fis fis4 fis8 fis
 		fis fis16 fis fis8 fis fis4 r\fermata \bar "|." %350 FINIS
 	}
 }
