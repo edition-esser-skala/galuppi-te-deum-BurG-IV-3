@@ -1,0 +1,17 @@
+composer: Galuppi, Baldassare
+title: Te Deum
+id: BurG IV/3
+genre: hymn
+scoring: A, T (solo), S, A, T, B (coro), 2 ob, 2 clno (C), 2 vl, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2973-D-25
+    type: manuscript copy
+    date: 1750–1764
+    rism: 211010061
+    url: http://digital.slub-dresden.de/id42646141X
+github: galuppi-te-deum-BurG-IV-3
+imslp: Te_Deum_in_D_major%2C_BurG_IV%2F3_(Galuppi%2C_Baldassare)
+notes:
+
